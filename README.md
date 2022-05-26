@@ -9,6 +9,6 @@
 
 - Creating things that make me happy
 
-- Started a new github because why not :smile:
+- Software Developer for HOA Company :smile:
 
 I'm a Software Developer based out of the Dallas, TX area that fell out of loving code but slowly getting back to appreciate it all!
