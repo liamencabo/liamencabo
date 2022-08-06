@@ -1,6 +1,8 @@
 ### Software Developer 
 
-### My name is Liam Encabo :pouting_cat: :computer:
+<h1 align="center">Hi 👋, I'm Liam Encabo</h1>
+<h3 align="center">A Software Developer based in Dallas, TX!</h3> 
+:pouting_cat: :computer:
 ### Let's create some neat stuff
 
 
