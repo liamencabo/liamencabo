@@ -11,6 +11,6 @@
 
 - Being present within the tech field :smile:
 
-Skills :javascript: :html: :css: :react: :nodejs: :java:
 
-I'm a Software Developer based out of the Dallas, TX area that fell out of loving code but slowly getting back to appreciate it all!
+
+I'm a Software Developer based out of the Dallas, TX area just trying to create and learn more and more!
