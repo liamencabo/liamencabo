@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Liam Encabo</h1>
 <h3 align="center">A Software Developer based in Dallas, TX!</h3> 
-:pouting_cat: :computer:
+<h2>:pouting_cat: :computer:</h2>
 I'm a Software Developer based out of the Dallas, TX area just trying to create and learn more and more!
 
 
