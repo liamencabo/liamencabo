@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Developer 
 
 ### My name is Liam Encabo :pouting_cat: :computer:
 ### Let's create some neat stuff
