@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Liam Encabo</h1>
 <h3 align="center">A Software Developer based in Dallas, TX!</h3> 
 <h2 align="center">:pouting_cat: :computer:</h2>
-I'm a Software Developer based out of the Dallas, TX area just trying to create and learn more and more!
+I'm a Software Developer based out of the Dallas, TX area who specializes on web applications!
 
 
 
 - Student | Bachelors of Science - Computer and Information Technologies
 
-- Creating things that make me happy
+- Creating things that inspire me to engage more with the tech community.
 
-- Being present within the tech field :smile:
+- Being present with everything I do :smile:
 
 
 
