@@ -7,7 +7,7 @@ I'm a Software Developer based out of the Dallas, TX area who specializes on web
 
 
 
-- Student | Bachelors of Science - Computer and Information Technologies
+- Student | Bachelor of Applied Technology - Computer and Information Technologies
 
 - Lover of anything tech related, but mostly a soft spot for JavaScript hehe
 
