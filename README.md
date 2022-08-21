@@ -12,6 +12,9 @@ I'm a Software Developer based out of the Dallas, TX area who specializes on web
 - Lover of anything tech related, but mostly a soft spot for JavaScript hehe
 
 - Being present with everything I do :smile:
+<br>
+
+- Website: www.liamencabo.com | Linkedin: https://www.linkedin.com/in/liamencabo/ | Github: https://https:www.github.com/liamencabo
 
 
 
