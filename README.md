@@ -8,7 +8,7 @@
 
 - Student | Bachelor of Applied Technology - Computer and Information Technologies
 
-- Lover of anything tech related, but mostly a soft spot for JavaScript hehe
+- Lover of anything tech related, but mostly a soft spot for JavaScript {React and TypeScript} hehe
 
 - Being present with everything I do :smile:
 <br>
