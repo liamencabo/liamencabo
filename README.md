@@ -14,7 +14,7 @@ I'm a Software Developer based out of the Dallas, TX area who specializes on web
 - Being present with everything I do :smile:
 <br>
 
-<p aligin="center"> - Website: www.liamencabo.com | Linkedin: https://www.linkedin.com/in/liamencabo/ | Github: https://https:www.github.com/liamencabo </p>
+<p aligin="center">Website: www.liamencabo.com | Linkedin: https://www.linkedin.com/in/liamencabo/ | Github: https://https:www.github.com/liamencabo </p>
 
 
 
