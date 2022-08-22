@@ -4,8 +4,7 @@
 <h3 align="center">A Software Developer based in Dallas, TX!</h3> 
 <h2 align="center">:computer:</h2>
 <p align="center">I'm a Software Developer based out of the Dallas, TX area who specializes on web applications!</p>
-
-
+<br>
 
 - Student | Bachelor of Applied Technology - Computer and Information Technologies
 
