@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Liam Encabo</h1>
 <h3 align="center">Software Developer in Dallas, TX!</h3> 
 <h2 align="center">:computer:</h2>
-<p align="center">I'm a Software Developer based out of the Dallas, TX area who specializes on web applications!</p>
+<p align="center">Software Developer in the Dallas, TX area who specializes within web applications!</p>
 <br>
 
 - Student | Bachelor of Applied Technology - Computer and Information Technologies
