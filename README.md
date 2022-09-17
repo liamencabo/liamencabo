@@ -6,7 +6,7 @@
 <p align="center">Software Developer in the Dallas, TX area who specializes within web applications!</p>
 <br>
 
-This is where I upload projects and work stuff from time to time. Enjoying this wave! 
+<p align="center">This is where I upload projects and work stuff from time to time. Enjoying this wave!</p>
 
 <br>
 
