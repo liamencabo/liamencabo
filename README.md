@@ -10,9 +10,9 @@
 
 <br>
 
-<p>Website: www.liamencabo.com {Repairing}</p>
+<p align="center">Website: www.liamencabo.com {Repairing}</p>
 <br>
-<p>Linkedin: https://www.linkedin.com/in/liamencabo/</p>
+<p align="center">Linkedin: https://www.linkedin.com/in/liamencabo/</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
