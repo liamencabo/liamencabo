@@ -6,11 +6,8 @@
 <p align="center">Software Developer in the Dallas, TX area who specializes within web applications!</p>
 <br>
 
-- Student | Bachelor of Applied Technology - Computer and Information Technologies
+This is where I upload projects and work stuff from time to time. Enjoying this wave! 
 
-- Lover of tech, but mostly a soft spot for JavaScript {React and TypeScript} hehe
-
-- Being present with everything I do :smile:
 <br>
 
 <p>Website: www.liamencabo.com {Repairing}</p>
