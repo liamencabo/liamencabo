@@ -1,9 +1,9 @@
-### Software Developer 
+### Snippets of code 
 
 <h1 align="center">Hi 👋, I'm Liam Encabo</h1>
-<h3 align="center">Software Enthusiast in Dallas, TX!</h3> 
+<h3 align="center">Screen looker!</h3> 
 <h2 align="center">:computer:</h2>
-<p align="center">Create and Develop!</p>
+<p align="center">stuff about stuff related to stuff</p>
 
 <br>
 
